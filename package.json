@@ -1,0 +1,28 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atemu-yugioh/Design-Patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atemu-yugioh/Design-Patterns/issues"
+  },
+  "homepage": "https://github.com/atemu-yugioh/Design-Patterns#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.18.2",
+    "helmet": "^6.1.4",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22"
+  }
+}
